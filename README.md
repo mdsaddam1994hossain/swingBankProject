@@ -12,9 +12,10 @@
 - MySQL
 
 ### Sample images
+``
+```
 ```
 ## Login Page
-```
-```
-![login](G:\SwingProject\swingBankProject\image\login.JPG)
+![](/image/loginswing.PNG)
+
 ```
