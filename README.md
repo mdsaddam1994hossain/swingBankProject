@@ -5,7 +5,7 @@
 ```
 ### Email: saddam30061994@gmail.com
 
-### Only Bank user this system
+### Only Bank use this system
 
 ## Technology Used
 - JAVA Swing
