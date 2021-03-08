@@ -3,7 +3,7 @@
 ```
 # Author Md Saddam Hossain
 ```
-### Email: saddam30061994@gmail.com
+### Email : saddam30061994@gmail.com
 
 ### Only Bank use this system
 
